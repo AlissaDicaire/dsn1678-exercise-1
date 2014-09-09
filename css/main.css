@@ -25,7 +25,28 @@ body {
   padding: 0;
 }
 
+main {
+	margin: 0 auto 100px auto;
+	background-color: #fff;
+	padding-bottom: 35px;
+	border-radius: 8px;	
+}
+
 img {
   display: block;
   width: 100%;
+}
+
+.fig figcaption {
+	background-color: rgba(0,0,0,.5);
+	bottom: 0px;
+	position: absolute;
+	left: 0px;
+	color: #fff;
+	width: 100%;
+}
+
+.tb {
+	width: 100%;
+	border-collapse: collapse;	
 }
