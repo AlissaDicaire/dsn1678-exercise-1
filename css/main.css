@@ -32,6 +32,10 @@ main {
 	border-radius: 8px;	
 }
 
+h1 {
+	margin-left: 20px;	
+}
+
 img {
   display: block;
   width: 100%;
@@ -49,4 +53,13 @@ img {
 .tb {
 	width: 100%;
 	border-collapse: collapse;	
+}
+
+th {
+	text-transform: uppercase;
+	color: #A4A4A4;	
+}
+
+td {
+	padding-left: 200px;	
 }
